@@ -1,4 +1,4 @@
-# 📄 Document Analyzer & Summarizer (Gemini API)
+# 📄 RAG Application for Document Analyzer & Summarizer (Gemini API)
 
 This is a **Streamlit-based AI-powered web application** that allows users to **upload documents (PDF, DOCX, TXT)** and receive intelligent answers, summaries, key points, risks, and technical insights using **Google Gemini 1.5 Flash** via `langchain`.
 
